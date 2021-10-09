@@ -1,13 +1,10 @@
 ### Thank you for visiting my github page🙏
 
-My goal is FrontEnd developer
+My goal is get a job as Software Developer
 
-Portfolio homepage:  
+My Projects Homepage:  
 
-My stack: html, css, svg, JavaScript, React, PostCSS, Sass, Styled-components, ContextAPI, Redux, Redux Toolkit, Firebase, Node, 
-
-Studying: Git, TypeScript, Next.js 
-
+Techs that i am learning🎗   
 <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black"/></a>
@@ -16,9 +13,18 @@ Studying: Git, TypeScript, Next.js
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/ContextAPI-41BDF5?style=flat-square&logo=contextAPI&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/ContextAPI-41BDF5?style=flat-square&logo=React&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
+
+Techs that i want to learn soon🎗     
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=black"/></a>
+ 
+
+
 
 
 <!--
