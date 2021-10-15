@@ -17,11 +17,13 @@ Techs that i am learning🎗
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Github-F05032?style=flat-square&logo=Github&logoColor=white"/></a>
 
 Techs that i will learn soon🎗     
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+
  
 
 
